@@ -1,3 +1,11 @@
+%Author: Asheesh Sharma
+%MSc Robotics, University of Bristol
+%License: UIA (Use It Anywhere)
+%Disclaimer: The UIA licesne applies to any part of this code except for
+%any where it is specifically mentioned. You are given this software for
+%free so dont try to sell it and do not bother me if some thing is broken.
+%Finally, to all the students out there. The challenge is not to complete a
+%task. It is to not plagiarize. :D 
 clf;        %clears figures
 clc;        %clears console
 clear;      %clears workspace
