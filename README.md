@@ -4,7 +4,7 @@ Run LOCALISE.m
 
 Localisation using partice filter
 
-![alt text](Particle-filter/1.png "partice filter")
+![alt text](https://github.com/Asheeshkrsharma/Particle-filter/blob/master/1.png "partice filter")
 
 Path Planning using A* search
 
